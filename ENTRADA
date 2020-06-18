@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR RED]#[/COLOR] [COLOR orange]ANIME[/COLOR] [COLOR blue] PLUS[/COLOR]</name>
+<name>[COLOR white]#[/COLOR] [COLOR orange]ANIME[/COLOR] [COLOR blue] PLUS[/COLOR]</name>
 <thumbnail>https://ia601400.us.archive.org/26/items/entra-aqui-esse/seja%20bem%20vindo%20esse.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601400.us.archive.org/26/items/entra-aqui-esse/fanart%20esse.jpg</fanart>
@@ -16,6 +16,19 @@
 <channels>
 <channel>
 <name>[COLOR red]#[/COLOR] [COLOR orange]EPISODIOS ATUALIZADOS TODA SEMANA[/COLOR]</name>
+<thumbnail>https://ia601400.us.archive.org/26/items/entra-aqui-esse/seja%20bem%20vindo%20esse.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia601400.us.archive.org/26/items/entra-aqui-esse/fanart%20esse.jpg</fanart>
+<info>
+
+[COLOR yellow]SAIU LANÇAMENTO SAIU AQUI![/COLOR]</info>
+</channel>
+
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR red]#[/COLOR] [COLOR orange]BOA DIVERSÃO[/COLOR]</name>
 <thumbnail>https://ia601400.us.archive.org/26/items/entra-aqui-esse/seja%20bem%20vindo%20esse.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601400.us.archive.org/26/items/entra-aqui-esse/fanart%20esse.jpg</fanart>

@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR white]#[/COLOR] [COLOR orange]ANIME[/COLOR] [COLOR blue] PLUS[/COLOR]</name>
+<name>[B] [COLOR white]#[/COLOR] [COLOR orange]ANIME[/COLOR] [COLOR blue] PLUS[/COLOR] [/B]</name>
 <thumbnail>https://ia601400.us.archive.org/26/items/entra-aqui-esse/seja%20bem%20vindo%20esse.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601400.us.archive.org/26/items/entra-aqui-esse/fanart%20esse.jpg</fanart>
@@ -15,7 +15,7 @@
 
 <channels>
 <channel>
-<name>[COLOR white]#[/COLOR] [COLOR orange]EPISODIOS ATUALIZADOS TODA SEMANA[/COLOR]</name>
+<name>[B] [COLOR white]#[/COLOR] [COLOR orange]EPISODIOS ATUALIZADOS TODA SEMANA[/COLOR] [/B]</name>
 <thumbnail>https://ia601400.us.archive.org/32/items/icon-3/icon%202.jpg</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601400.us.archive.org/32/items/icon-3/fanart%201.jpg</fanart>
@@ -28,7 +28,7 @@
 
 <channels>
 <channel>
-<name>[COLOR white]#[/COLOR] [COLOR orange]BOA DIVERSÃO[/COLOR]</name>
+<name>[B] [COLOR white]#[/COLOR] [COLOR orange]BOA DIVERSÃO[/COLOR] [/B]</name>
 <thumbnail>https://ia601400.us.archive.org/32/items/icon-3/icon%203.jpg</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601400.us.archive.org/32/items/icon-3/fanart%202.jpg</fanart>
@@ -42,7 +42,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <channels>
 <channel>
-<name>[COLOR white]>>>[/COLOR] [COLOR orange]ENTRE AQUI[/COLOR] [COLOR white]<<<[/COLOR]</name>
+<name>[B] [COLOR white]>>>[/COLOR] [COLOR orange]ENTRE AQUI[/COLOR] [COLOR white]<<<[/COLOR] [/B]</name>
 <thumbnail>https://ia801504.us.archive.org/31/items/fanart_20200617/entra%20aqui.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Akatsuki000/ANIMES-PLUS/master/CATEGORIAS</externallink>
 <fanart>https://ia601400.us.archive.org/26/items/entra-aqui-esse/fanart%20esse.jpg</fanart>

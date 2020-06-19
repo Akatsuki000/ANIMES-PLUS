@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR white]#[/COLOR] [COLOR orange]ANIMES POPULARES[/COLOR]</name>
+<name>[B] [COLOR white]#[/COLOR] [COLOR orange]ANIMES POPULARES[/COLOR] [/B]</name>
 <thumbnail>https://ia601501.us.archive.org/24/items/pics-art-06-18-12.15.30/PicsArt_06-18-12.15.30.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Akatsuki000/ANIMES-PLUS/master/SUBCATEGORIAS</externallink>
 <fanart>https://ia801400.us.archive.org/32/items/icon-3/fanart%202.jpg</fanart>
@@ -15,7 +15,7 @@
 
 <channels>
 <channel>
-<name>[COLOR white]#[/COLOR] [COLOR orange]ANIMES LANÇAMENTOS[/COLOR]</name>
+<name>[B] [COLOR white]#[/COLOR] [COLOR orange]ANIMES LANÇAMENTOS[/COLOR] [/B]</name>
 <thumbnail>https://ia601506.us.archive.org/33/items/animes-lancamentos/Animes%20lancamentos.jpg</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia801400.us.archive.org/32/items/icon-3/fanart%202.jpg</fanart>
@@ -30,7 +30,7 @@
 
 <channels>
 <channel>
-<name>[COLOR white]#[/COLOR] [COLOR orange]ANIMES VARIADOS[/COLOR]</name>
+<name>[B] [COLOR white]#[/COLOR] [COLOR orange]ANIMES VARIADOS[/COLOR] [/B]</name>
 <thumbnail>https://ia601507.us.archive.org/29/items/variados_202006/Variados.jpg</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia801400.us.archive.org/32/items/icon-3/fanart%202.jpg</fanart>
@@ -45,7 +45,7 @@
 
 <channels>
 <channel>
-<name>[COLOR white]>>>[/COLOR] [COLOR orange]BÔNUS[/COLOR] [COLOR white]<<<[/COLOR]</name>
+<name>[B] [COLOR white]>>>[/COLOR] [COLOR orange]BÔNUS[/COLOR] [COLOR white]<<<[/COLOR] [/B]</name>
 <thumbnail>https://ia601507.us.archive.org/29/items/variados_202006/Variados.jpg</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia801400.us.archive.org/32/items/icon-3/fanart%202.jpg</fanart>

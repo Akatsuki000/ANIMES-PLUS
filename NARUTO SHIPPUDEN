@@ -584,16 +584,8 @@
 <genre></genre>
 </item>
 <item>
-<title>[B][COLOR orange]128[/COLOR] O Preço do Poder [/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15n7Li_KM32-XuewdLM3BUDZ3hrBiodh6/view</link>
-<thumbnail>https://media.fstatic.com/pHrBKxsoktZHuqaQcOWa4Kh5m08=/fit-in/290x478/smart/media/movies/covers/2015/05/naruto-shippuden-5a-temporada_t28205.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/dTFnU3EQB79aDM4HnUj06Y9Xbq1.jpg</fanart>
-<info></info>
-<genre></genre>
-</item>
-<item>
 <title>[B][COLOR orange]128[/COLOR]A Lenda de Um Ninja Determinado: As Crônicas Ninjas (Parte 2)[/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/153VTNKST2XDSlHePfjCxY_zkUjy1YeOd/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15n7Li_KM32-XuewdLM3BUDZ3hrBiodh6/view</link>
 <thumbnail>https://media.fstatic.com/pHrBKxsoktZHuqaQcOWa4Kh5m08=/fit-in/290x478/smart/media/movies/covers/2015/05/naruto-shippuden-5a-temporada_t28205.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/dTFnU3EQB79aDM4HnUj06Y9Xbq1.jpg</fanart>
 <info></info>

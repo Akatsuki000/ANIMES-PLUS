@@ -65,7 +65,7 @@
 <item>
 <title>[B]A&E [COLOR lime](HD)[/COLOR][/B]</title>
 <link>https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/sbtsp_2a5ac580_7496f7b239f909c5abce9641be0ae3e3e6183a45/playlist.m3u8</link>
-<thumbnail>https://cdn.freebiesupply.com/logos/large/2x/a-e-television-logo-png-transparent.png</thumbnail>
+<thumbnail>https://guitargirlmag.com/wp-content/uploads/2020/03/AE.max-640x640.jpg</thumbnail>
 <fanart>https://jornalcorreiodamanha.com.br/images/stories/2020/fev-2020/tv-por-assinatura.jpg</fanart>
 <info></info>
 <genre></genre>
@@ -73,7 +73,7 @@
 <item>
 <title>[B]AMC [COLOR lime](HD)[/COLOR][/B]</title>
 <link>https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/sbtsp_2a5ac580_7496f7b239f909c5abce9641be0ae3e3e6183a45/playlist.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/1280px-Amc_logo.svg.png</thumbnail>
+<thumbnail>https://logodownload.org/wp-content/uploads/2020/01/amc-logo-1.png</thumbnail>
 <fanart>https://jornalcorreiodamanha.com.br/images/stories/2020/fev-2020/tv-por-assinatura.jpg</fanart>
 <info></info>
 <genre></genre>
@@ -89,7 +89,7 @@
 <item>
 <title>[B]CINEMAX [COLOR lime](HD)[/COLOR][/B]</title>
 <link>https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/sbtsp_2a5ac580_7496f7b239f909c5abce9641be0ae3e3e6183a45/playlist.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cinemax_new.png/1280px-Cinemax_new.png</thumbnail>
+<thumbnail>https://cdn.ome.lt/T8r9zwxQ0pssuPdJgaH0IWbOel0=/837x0/smart/uploads/conteudo/fotos/sandbox.jpg</thumbnail>
 <fanart>https://jornalcorreiodamanha.com.br/images/stories/2020/fev-2020/tv-por-assinatura.jpg</fanart>
 <info></info>
 <genre></genre>
@@ -97,7 +97,7 @@
 <item>
 <title>[B]FOX [COLOR lime](HD)[/COLOR][/B]</title>
 <link>https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/sbtsp_2a5ac580_7496f7b239f909c5abce9641be0ae3e3e6183a45/playlist.m3u8</link>
-<thumbnail>https://www.pngitem.com/pimgs/m/554-5540015_fox-tv-logo-png-fox-channel-logo-vector.png</thumbnail>
+<thumbnail>https://i.pinimg.com/originals/8d/20/e0/8d20e08abc35779198e572544a260bfb.jpg</thumbnail>
 <fanart>https://jornalcorreiodamanha.com.br/images/stories/2020/fev-2020/tv-por-assinatura.jpg</fanart>
 <info></info>
 <genre></genre>
@@ -105,14 +105,23 @@
 <item>
 <title>[B]FOX LIFE [COLOR lime](HD)[/COLOR][/B]</title>
 <link>https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/sbtsp_2a5ac580_7496f7b239f909c5abce9641be0ae3e3e6183a45/playlist.m3u8</link>
-<thumbnail>https://1.bp.blogspot.com/-LliRf0Aiv2Y/WdS4bvEmFjI/AAAAAAABKHM/3Cy8OqQx1k4QkRv8hnM1XokiQfYz4SPawCLcBGAs/s1600/FOXlife_logo_black-01.png</thumbnail>
+<thumbnail>https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2015/05/Fox-Life-e1505937657577.png</thumbnail>
 <fanart>https://jornalcorreiodamanha.com.br/images/stories/2020/fev-2020/tv-por-assinatura.jpg</fanart>
 <info></info>
 <genre></genre>
-</item><item>
+</item>
+<item>
 <title>[B]FOX PREMIUM 1 [COLOR lime](HD)[/COLOR][/B]</title>
 <link>https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/sbtsp_2a5ac580_7496f7b239f909c5abce9641be0ae3e3e6183a45/playlist.m3u8</link>
-<thumbnail>https://imagensbrasil.org/images/2020/02/14/LOGO-FOXPREMIUM_BRASIL1.md.png</thumbnail>
+<thumbnail>https://br.web.img2.acsta.net/r_1280_720/newsv7/17/04/27/22/03/450031.jpg</thumbnail>
+<fanart>https://jornalcorreiodamanha.com.br/images/stories/2020/fev-2020/tv-por-assinatura.jpg</fanart>
+<info></info>
+<genre></genre>
+</item>
+<item>
+<title>[B]FOX PREMIUM 2 [COLOR lime](HD)[/COLOR][/B]</title>
+<link>https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/sbtsp_2a5ac580_7496f7b239f909c5abce9641be0ae3e3e6183a45/playlist.m3u8</link>
+<thumbnail>https://1.bp.blogspot.com/-PTZ-zmj3PrM/XkbW9NUng4I/AAAAAAAAAxg/_W10XvNIVXIFySOJHDKeS9R_VGm5lNgggCLcBGAsYHQ/s1600/assistir-foxpremium-2-ao-vivo-em-full-hd-online.png</thumbnail>
 <fanart>https://jornalcorreiodamanha.com.br/images/stories/2020/fev-2020/tv-por-assinatura.jpg</fanart>
 <info></info>
 <genre></genre>

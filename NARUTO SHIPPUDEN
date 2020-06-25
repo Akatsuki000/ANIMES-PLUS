@@ -942,7 +942,7 @@
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/dTFnU3EQB79aDM4HnUj06Y9Xbq1.jpg</fanart>
 <info></info>
 <genre></genre>
-</item
+</item>
 <item>
 <title>[B][COLOR orange]201[/COLOR] A Dolorosa Decisão[/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18jYZrFxv5Ss2BiuCr6d8_apwvw9N4yk8/view</link>
@@ -950,7 +950,7 @@
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/dTFnU3EQB79aDM4HnUj06Y9Xbq1.jpg</fanart>
 <info></info>
 <genre></genre>
-</item
+</item>
 <item>
 <title>[B][COLOR orange]202[/COLOR] Correndo Com o Trovão[/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18cuhPlT3BKDyFt4x_Jamh0WqtmukOMi-/view</link>
@@ -958,7 +958,7 @@
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/dTFnU3EQB79aDM4HnUj06Y9Xbq1.jpg</fanart>
 <info></info>
 <genre></genre>
-</item
+</item>
 <item>
 <title>[B][COLOR orange]203[/COLOR] O Jeito Ninja do Sasuke[/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18nkLOCuU5KP1HFmDCF8wcwdMceRZVIl5/view</link>
@@ -983,3 +983,19 @@
 <info></info>
 <genre></genre>
 </item
+<item>
+<title>[B] [COLOR orange]NARUTO SHIPPUDEN LEGENDADO 9º TEMPORADA S/FILLERS[/COLOR] [/B]</title>
+<link>IGNORE</link>
+<thumbnail>https://2.bp.blogspot.com/-d25FSZpR8Sw/UBwZhatSiJI/AAAAAAAABQE/JAc9NbkUz1c/s1600/7293.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/dTFnU3EQB79aDM4HnUj06Y9Xbq1.jpg</fanart>
+<info>Naruto Shippuuden ocorre 2 anos e meio após Naruto ter ficado para treinar com Jiraiya. Após seu retorno, Naruto descobre que seus amigos shinobi's o superaram na classificação, e ele caiu para trás. No entanto, com apenas 6 meses para resgatar Sasuke, Naruto tem de enfrentar inimigos ainda mais perigosos. O plano da Akatsuki se revela lentamente e os perigos surgem mais do que nunca!</info>
+<genre></genre>
+</item>
+<item>
+<title>[B][COLOR orange]AQUII/COLOR]AQUII[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=AQUII</link>
+<thumbnail>https://getfreetvseries.com/images/tvshows/naruto-shippuden/5ba2a445f166e.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/dTFnU3EQB79aDM4HnUj06Y9Xbq1.jpg</fanart>
+<info></info>
+<genre></genre>
+</item>
